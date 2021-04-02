@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Pranay.Bommineni\IdeaProjects\bank-marketing\src\main\scala\com\bank\train\ModelTraining.scala:24:16: recursive variable path needs type[0m
+[0m[[0m[31merror[0m] [0m[0m    var path = path+"labelencoder//"[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
